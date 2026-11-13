@@ -32,7 +32,7 @@ publication_category:
 
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/
- breadcrumbs              : false
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
